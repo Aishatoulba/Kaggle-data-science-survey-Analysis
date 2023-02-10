@@ -25,5 +25,7 @@ In this project, we are going to find out what tools and languages professionals
 **3.Analyze which language do the users of R / Python recommend to new learners.**
 
  ## ⚙️ Process:
- 
+  1. **Setting up our working environment**: Github repository & Jupyter Notebook 
+  2. **Data  Understanding**:
+ - Understanding the dataset we have :
  
