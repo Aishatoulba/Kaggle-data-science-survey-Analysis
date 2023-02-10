@@ -47,7 +47,7 @@ In this project, we are going to find out what tools and languages professionals
    ## 📌 Outcomes:
  <img align="center" src="https://github.com/AishaAhmedToulba/Kaggle-data-science-survey-Analysis/blob/main/blob/main/Images/descarga%20(7).png" width="700px">
  
-  **From the plot above, We can see that the most used language in data science is python with around 6000 users followed by R with around 4700 users.**
+  **From the plot above, We can see that the most used language in data science is python with around 6000 kaggle data scientists followed by R with around 4700 users.**
   
   **We wanted to take a closer look at the users of each respondent tool , we want to see which respondents only use Python , those who only use R and those who use both of them.**
  From the plot below , we can see that the number of users of both tools is around 3700 , which is higher than the number of users of each tool solely.
