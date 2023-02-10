@@ -28,4 +28,23 @@ In this project, we are going to find out what tools and languages professionals
   1. **Setting up our working environment**: Github repository & Jupyter Notebook 
   2. **Data  Understanding**:
  - Understanding the dataset we have :
+<div align="center">
+
+| Variable              | Description                                                                                   |
+|:----------------------|:----------------------------------------------------------------------------------------------|
+| Respondent              |  The number of the respondent  |
+| WorkToolsSelect                  |  The different set of tools each respondent works with.                 |
+| LanguageRecommendationSelect                   |  Which language does the respondent recommend ?                                       |
+| EmployerIndustry	     |  The industry in which the employer of the responder operates ?  |
+| WorkAlgorithmsSelect	     | Which algorithms does the respondent use in his data science projects.  |
+</div>
+
+  3. **Data Exploration**: 
+  - Analyzing the number of respondents per each data science tool. 
+  - Creating visualizations to explore the language preference , and language recommendation.
+  
+  
+   ## 📌 Outcomes:
+ <img align="center" src="https://github.com/AishaAhmedToulba/Analyzing-and-Visualizing-Covid-19-Data/blob/main/Images/descarga.png?raw=true" width="700px">
  
+  
